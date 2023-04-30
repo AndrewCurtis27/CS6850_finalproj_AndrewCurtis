@@ -1,8 +1,6 @@
 # CS6850_finalproj_AndrewCurtis
 
-# Optimization_GNN_DIPT
-
-# Running Instructions and Options
+## Running Instructions and Options
 
 Download zip file. It contains .ipynb code file to be run, "dwpt_v5" folder with simulator network parameters, and empty "gp" folder for storing trained network parameters for later plotting and analysis. Open .ipynb file and run.
 
